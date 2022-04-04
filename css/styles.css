@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+p {
+    height: 120px;
+    width: 500px;
+    margin: 100px auto;
+    padding: 50px;
+    background-color: #98f5e1;
+    line-height: 3;
+    font-family: Lato, sans-serif;
+    border-radius: 10px;
+}
+
+p input {
+    border-radius: 5px;
+    border: 1px solid #D4D4D4;
+}
+
+#dropdown {
+    border-radius: 5px;
+    border: 1px solid #d4d4d4;
+}
+
+#dropdown > option {
+    border-radius: 5px;
+}
